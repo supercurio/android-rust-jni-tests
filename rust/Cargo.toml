@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["François Simond <dev@supercur.io>"]
 
 [dependencies]
-jni = "0.5.2"
+jni = "= 0.5.2"
 # jni = { git = 'https://github.com/supercurio/jni-rs', branch="get_object_classes-delete_local_ref" }
 
 [target.arm-linux-androideabi.dependencies]
